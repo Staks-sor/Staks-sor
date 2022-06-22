@@ -1,5 +1,5 @@
 ### Hi there 👋
- ![image]https://media1.giphy.com/media/wp0PWXANZck7BHr0TF/giphy.gif?cid=e1bb72ff5baf15247437786f637b2287
+ ![image]https://media1.giphy.com/media/wp0PWXANZck7BHr0TF/giphy.gif?cid=e1bb72ff5baf15247437786f637b2287[image]
 **Staks-sor/Staks-sor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
