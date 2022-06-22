@@ -30,23 +30,23 @@ What I'm working on, what I'm studying, a little about me<br>
     Possibility of business trips: yes.<br>
     Driver's license: yes.<br>
 - 📫 My stack<br>
-      Django Framework<br>
-      Linux<br>
-      Python 3<br>
-      SAP<br>
-      BS4<br>
-      Git<br>
-      Multiprocessing<br>
-      Asyncio<br>
-      Pandas<br>
-      Matplotlib<br>
-      Selenium<br>
-      threading<br>
-      Opencv<br>
-      Работа в команде<br>
-      fastApi<br>
-      PostgreSQL<br>
-      aiogram<br>
+       Django Framework<br>
+       Linux<br>
+       Python 3<br>
+       SAP<br>
+       BS4<br>
+       Git<br>
+       Multiprocessing<br>
+       Asyncio<br>
+       Pandas<br>
+       Matplotlib<br>
+       Selenium<br>
+       threading<br>
+       Opencv<br>
+       Работа в команде<br>
+       fastApi<br>
+       PostgreSQL<br>
+       aiogram<br>
 - 😄 I like complex computer games such as bloodburn, sekiro, Elden Ring, also i like cats<br>
 - ⚡ My hobbies, mtb, walking in the fells<br>
 
