@@ -50,11 +50,5 @@ What I'm working on, what I'm studying, a little about me<br>
 - 😄 I like complex computer games such as bloodburn, sekiro, Elden Ring, also i like cats<br>
 - ⚡ My hobbies, mtb, walking in the fells<br>
 
-My certificates:
- - https://drive.google.com/file/d/1sTbb6R3EugAixNlZhWAEuef_AHMwu02-/view
- - https://drive.google.com/file/d/1kfGIf7tkcawtxDvCiURM82jhp2Q0tDqS/view
- - https://drive.google.com/file/d/1rDOE08m92VT_q68udGv9y4SMpuBHvRG6/view
- - https://drive.google.com/file/d/1p2SZVwKHBPxzTE7QqaVx_FCBFIslwgn5/view
- - https://drive.google.com/file/d/1pgtZdDK-4z1NsNKd0Op-9CX08uGolJOE/view
- - https://stepik.org/cert/1205985
+
 
