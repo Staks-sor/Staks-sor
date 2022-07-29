@@ -43,7 +43,7 @@ What I'm working on, what I'm studying, a little about me<br>
        Selenium<br>
        threading<br>
        Opencv<br>
-       Работа в команде<br>
+       teamwork<br>
        fastApi<br>
        PostgreSQL<br>
        aiogram<br>
