@@ -12,7 +12,7 @@ What I'm working on, what I'm studying, a little about me<br>
 - 🌱 Every day I try to improve myself and learn new things.<br>
 - 👯 Keep up to date with the latest in the IT world.<br>
 - 💬 My skills:<br>
-    — Programming in Python, JS.;<br>
+    — Programming in Python, GO, HTML, JS.;<br>
     - Knowledge of the Microsoft Office package (LibreOffice);<br>
     - Blind dialing method;<br>
     — Understanding the principles and stages of web projects development;<br>
