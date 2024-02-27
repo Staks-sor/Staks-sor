@@ -29,6 +29,9 @@ What I'm working on, what I'm studying, a little about me<br>
     Marital status: Not maried.<br>
     Possibility of business trips: yes.<br>
     Driver's license: yes.<br>
+    <img src="https://raw.githubusercontent.com/Staks-sor/Staks-sor/output/snake.svg" alt="Snake animation" />
+
+###
 - 📫 My stack<br>
        Django Framework<br>
        Linux<br>
