@@ -4,7 +4,7 @@
 
 What I'm working on, what I'm studying, a little about me<br>
 
-- 🔭 I'm currently working on a telegram bot. (@MattouretteBot)<br>
+
 - A little about the bot, appeared as a joke, but I wanted to develop it.<br>
   Soon you will see my whole idea.<br>
   A big update is coming up.<br>
