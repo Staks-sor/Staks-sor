@@ -73,8 +73,18 @@ I'm currently developing a bot that started as a joke but has grown into a serio
 
 Feel free to reach out to me if you'd like to collaborate or just chat about tech, games, or anything else!
 
-[![Telegram](https://tse4.mm.bing.net/th?id=OIP.qUndkZvNHRqco4oneDDgKwHaEo&pid=15.1)](https://t.me/Staks_sor)
-[![Email]([https://img.shields.io/badge/Email-Send%20Mail-green](https://logolook.net/wp-content/uploads/2021/06/Gmail-Logo-2013-1536x864.png))](mailto:stas.sor@gmail.com)
+
+
+
+<a href="https://t.me/Staks_sor" target="_blank">
+  <img src="https://github.com/user-attachments/assets/942c283f-57ed-4cf8-982a-1e5be490b78d" width="180" height="100" />
+</a>
+
+<a href="mailto:stas.sor@gmail.com" target="_blank">
+  <img src="https://github.com/user-attachments/assets/cda0f1c4-95c0-410c-a4bf-2f991258c418" width="100" height="100" />
+</a>
+
+
 
 ---
 
