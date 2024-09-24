@@ -34,7 +34,7 @@ Currently, I'm working on a bot that started as a small project but has transfor
   </a>
 </p>
 
-<img src="https://media.tenor.com/nWx0rD5cDD4AAAAi/ocen.gif" alt="Wave GIF" style="width: 100%; height: 200px;" /><img src="https://media.tenor.com/nWx0rD5cDD4AAAAi/ocen.gif" alt="Wave GIF" style="width: 100%; height: 200px;" /><img src="https://media.tenor.com/nWx0rD5cDD4AAAAi/ocen.gif" alt="Wave GIF" style="width: 100%; height: 200px;" /><img src="https://media.tenor.com/nWx0rD5cDD4AAAAi/ocen.gif" alt="Wave GIF" style="width: 100%; height: 200px;" /><img src="https://media.tenor.com/nWx0rD5cDD4AAAAi/ocen.gif" alt="Wave GIF" style="width: 100%; height: 200px;" />
+<img src="https://media.tenor.com/nWx0rD5cDD4AAAAi/ocen.gif" alt="Wave GIF" style="width: 100%; height: 200px;" /><img src="https://media.tenor.com/nWx0rD5cDD4AAAAi/ocen.gif" alt="Wave GIF" style="width: 100%; height: 200px;" /><img src="https://media.tenor.com/nWx0rD5cDD4AAAAi/ocen.gif" alt="Wave GIF" style="width: 100%; height: 200px;" /><img src="https://media.tenor.com/nWx0rD5cDD4AAAAi/ocen.gif" alt="Wave GIF" style="width: 100%; height: 200px;" />
 
 
 
