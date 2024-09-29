@@ -2,7 +2,7 @@
  ![image](https://media0.giphy.com/media/heIX5HfWgEYlW/giphy.gif?cid=ecf05e47kpkt79xfavubguwomgv445c6f0ei57si5hm8qj98&rid=giphy.gif&ct=g)<br>
 
 
-I’m a mid-level developer with over 10 years of experience in web development and IT solutions. I’m passionate about continuous learning, improving my skills, and staying updated with the latest trends in the tech industry.
+I’m a mid-level developer with over 3 years of experience in web development and IT solutions. I’m passionate about continuous learning, improving my skills, and staying updated with the latest trends in the tech industry.
 
 ## 🚀 What I'm Working On
 Currently, I'm working on a bot that started as a small project but has transformed into a serious endeavor with some exciting updates coming soon. Stay tuned!
