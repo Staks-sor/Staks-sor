@@ -1,29 +1,32 @@
-# Welcome to My GitHub Profile! 👋
- ![image](https://media0.giphy.com/media/heIX5HfWgEYlW/giphy.gif?cid=ecf05e47kpkt79xfavubguwomgv445c6f0ei57si5hm8qj98&rid=giphy.gif&ct=g)<br>
 
+ <h1>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspДобро пожаловать в мой профиль на GitHub! 👋</h1>
+ 
+ 
+<p align="center">
+  <img src="https://media0.giphy.com/media/heIX5HfWgEYlW/giphy.gif?cid=ecf05e47kpkt79xfavubguwomgv445c6f0ei57si5hm8qj98&rid=giphy.gif&ct=g" width="400" height="300">
+</p>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbspЯ разработчик среднего уровня с более чем трёхлетним опытом работы в бэкенд разработке и IT-решениях. Я увлечен непрерывным обучением, совершенствованием своих навыков и постоянным следованием за последними тенденциями в технологической индустрии.
 
-I’m a mid-level developer with over 3 years of experience in web development and IT solutions. I’m passionate about continuous learning, improving my skills, and staying updated with the latest trends in the tech industry.
+## 🚀 Над чем я работаю
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbspВ настоящее время я ищу активно работу.
 
-## 🚀 What I'm Working On
-Currently, I'm working on a bot that started as a small project but has transformed into a serious endeavor with some exciting updates coming soon. Stay tuned!
-
-## ⚙️ My Tech Stack
+## ⚙️  Мой технологический стек
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />  
 </p>
 
-## 🛠️ Skills
-- Proficient in Python, Go, HTML, and JavaScript.
-- Strong knowledge of Microsoft Office Suite (including LibreOffice).
-- Experienced with blind dialing techniques and web development project phases.
+## 🛠️ Навыки
+-Владею Python, Go, HTML и JavaScript.
+-Глубокие знания пакета Microsoft Office Suite (включая LibreOffice).
+-Опыт работы с техниками слепого набора и этапами веб-разработки проектов.
 
-## 📫 Get in Touch
+## 📫 Связаться со мной
 <p align="center">
   <a href="https://t.me/Staks_sor" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
