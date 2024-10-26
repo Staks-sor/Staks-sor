@@ -1,6 +1,6 @@
 
  <h1>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspДобро пожаловать! 👋</h1>
- ## when adding friends, put a star in return
+ ## when adding friends, put a star in return<br>
  ## I'm looking for a job, write to me in a telegram <a href="https://t.me/Staks_sor" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
            
 <p align="center">
