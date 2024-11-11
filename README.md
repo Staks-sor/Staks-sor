@@ -2,8 +2,7 @@
  <h1>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspДобро пожаловать! 👋</h1>
 
  
- ## I'm looking for a job, write to me in a telegram <a href="https://t.me/Staks_sor" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-           
+ 
 <p align="center">
   <img src="https://media0.giphy.com/media/heIX5HfWgEYlW/giphy.gif?cid=ecf05e47kpkt79xfavubguwomgv445c6f0ei57si5hm8qj98&rid=giphy.gif&ct=g" width="400" height="300">
 </p>
