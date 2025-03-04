@@ -1,7 +1,7 @@
 
  <h1>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspДобро пожаловать! 👋</h1>
 
- 
+ заходи в мой бот https://t.me/payments_meBot
  
 <p align="center">
   <img src="https://media0.giphy.com/media/heIX5HfWgEYlW/giphy.gif?cid=ecf05e47kpkt79xfavubguwomgv445c6f0ei57si5hm8qj98&rid=giphy.gif&ct=g" width="400" height="300">
