@@ -6,7 +6,7 @@
 </p>
  
 <p align="center">
-  <img src="https://media0.giphy.com/media/heIX5HfWgEYlW/giphy.gif?cid=ecf05e47kpkt79xfavubguwomgv445c6f0ei57si5hm8qj98&rid=giphy.gif&ct=g" width="400" height="300">
+  
 </p>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbspЯ разработчик среднего уровня с более чем трёхлетним опытом работы в бэкенд разработке и IT-решениях. Я увлечен непрерывным обучением, совершенствованием своих навыков и постоянным следованием за последними тенденциями в технологической индустрии.
 
